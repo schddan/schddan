@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 <strong>Languages & libraries:</strong> C, Python, HTML, CSS, JavaScript and React
+  🦄 <strong>Languages & libraries:</strong> C, Python, HTML, CSS, JavaScript, React and React Native
 </p>
 
 <p align="left">
